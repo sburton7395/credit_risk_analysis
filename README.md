@@ -82,13 +82,13 @@ Using the same training and testing data as the steps above, the training data w
 <details>
   <summary>Balanced accuracy score</summary>
   
-  ![balanced accuracy score - Smoteenn combination sampling](images/combo_smoteenn_balanced.png)
+  ![balanced accuracy score - Smoteenn combination sampling](images/overunder_smoteenn_balanced.png)
   
 </details>
 <details>
   <summary>Confusion matrix</summary>
   
-  ![confusion matrix - Smoteenn combination sampling](images/combo_smoteenn_confusion.png)
+  ![confusion matrix - Smoteenn combination sampling](images/overunder_smoteenn_confusion.png)
   <sub>Top row: true positives, false positives</sub>
   <sub>Bottom row: false negatives, true negatives</sub>
   
@@ -96,7 +96,7 @@ Using the same training and testing data as the steps above, the training data w
 <details>
   <summary>Imbalanced classification report</summary>
   
-  ![imbalanced classification report - Smoteenn combination sampling](images/combo_smoteenn_imbalanced.png)
+  ![imbalanced classification report - Smoteenn combination sampling](images/overunder_smoteenn_imbalanced.png)
   <sub>pre = precision, rec = recall, spe = specificity, f1 = f1-score, geo = geometric mean, iba = index-balanced accuracy, sup = support</sub>
   
 </details>
